@@ -157,7 +157,7 @@ Thank you for visiting. Have a great day.
 
   - AI Worker(Python)作成, クロスプラットフォームのハイブリッドアプリ開発(フルスタック：Next.js, Flutter), インフラ構築及び管理, ストア登録及び審査を担当。
 
-- **[SweetnData AI 포토 부스](https://www.sweetndata.kr/AIPhotoBooth)**: お客の画像データで生成 AI を利用し、ミュージカルの登場人物に。
+- **[SweetnData AI フォトブース](https://www.sweetndata.kr/AIPhotoBooth)**: お客の画像データで生成 AI を利用し、ミュージカルの登場人物に。
 
   - AI Worker(Python)作成, Web バックエンドサーバー及びフロントエンド開発(Next.js, Flutter), インフラ構築及び管理, カードの印刷ができるキオスクマシーンのソフトウェア作成(C# .NET)
 
