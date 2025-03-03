@@ -46,7 +46,7 @@ This is `Hyeon Jinseop`'s GitHub Profile. Please select your preferred language.
 
 - **[SweetnData AI 포토 부스](https://www.sweetndata.kr/AIPhotoBooth)**: 고객의 이미지 데이터로 생성형 AI 모델을 이용하여 고객을 뮤지컬의 등장인물로.
 
-  - AI Worker(Python) 작성, 웹 백엔드 및 프론트엔드 개발(Next.js, Flutter), 인프라 구축 및 관리, 카드 프린터 키오스크 소프트웨어 작성(C# .NET)
+  - AI Worker(Python) 작성, 웹 백엔드 및 프론트엔드 개발(Next.js), 인프라 구축 및 관리, 카드 프린터 키오스크 소프트웨어 작성(C# .NET)
 
 ## 연락처
 
@@ -102,7 +102,7 @@ I'm a versatile developer with a wide range of experience.
 
 - **[SweetnData AI Photo Booth](https://www.sweetndata.kr/AIPhotoBooth)**: Turn our customers into characters in a musical using a generative AI model from their image data.
 
-  - Writing AI Worker(Python), Web Full-stack Development(Next.js, Flutter), Infrastructure Build & Management, Writing card-printing Kiosk machine's Software(C# .NET)
+  - Writing AI Worker(Python), Web Full-stack Development(Next.js), Infrastructure Build & Management, Writing card-printing Kiosk machine's Software(C# .NET)
 
 ## Contacts
 
@@ -159,7 +159,7 @@ Thank you for visiting. Have a great day.
 
 - **[SweetnData AI フォトブース](https://www.sweetndata.kr/AIPhotoBooth)**: お客の画像データで生成 AI を利用し、ミュージカルの登場人物に。
 
-  - AI Worker(Python)作成, Web バックエンドサーバー及びフロントエンド開発(Next.js, Flutter), インフラ構築及び管理, カードの印刷ができるキオスクマシーンのソフトウェア作成(C# .NET)
+  - AI Worker(Python)作成, Web バックエンドサーバー及びフロントエンド開発(Next.js), インフラ構築及び管理, カードの印刷ができるキオスクマシーンのソフトウェア作成(C# .NET)
 
 ## ご連絡をお待ちしております
 
